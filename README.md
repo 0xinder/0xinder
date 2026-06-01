@@ -1,18 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Inderpreet Singh
 ===========================================================================================================================================
 
-Full Stack Blockchain Developer
+Senior Backend & Blockchain Developer
 --------------------------------
 
 - Over 5 years of experience designing and implementing secure smart contracts, robust backend infrastructure, & user-facing applications. 
 
 ## My Stack
-
-- 🎡 **Blockchain:**
-  - **Chains:** `EVM Chains` • `Solana`
-  - **Programming:** `Solidity` • `Go` • `JavaScript` • `TypeScript` • `Python`
-  - **Framework:** `Hardhat` • `Foundry` • `ethers.js` • `web3.js` • `solana/web3.js`
-  - **Security:** `Static Analysis` • `Security Audit` • `Unit Testing`
 
 - 🗄️ **Backend/Devops:**
   - **Programming:** `JavaScript` • `TypeScript` • `Python` • `Go`
@@ -20,10 +14,10 @@ Full Stack Blockchain Developer
   - **Databases:** `MongoDB` • `PostgreSQL` • `MySQL` • `Redis` • `Supabase`
   - **Devops:** `AWS(ECS, S3, EC2, EKS, EBS, ELB, VPC, Lambda, etc)` • `Docker` • `CI/CD` • `Queues(RabbitMQ, Bull)`
 
-- 🖥 **Frontend :**
-  - **Programming:** `JavaScript` • `TypeScript`
-  - **Framework:** `React.js` • `Next.js`
-  - **SDK Library:** `Tailwind CSS` • `Redux` • `Prisma` • `Socket.io` • `React Query`
+- 🎡 **Blockchain:**
+  - **Chains:** `EVM Chains` • `Solana`
+  - **Programming:** `Solidity` • `JavaScript` • `TypeScript` • `Python`
+  - **Framework:** `Hardhat` • `Foundry` • `ethers.js` • `web3.js` • `solana/web3.js`
 
 ### Socials
 
